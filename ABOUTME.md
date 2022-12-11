@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @strawbbyOKRA
+- 👋 Hi, I’m @iamsilks
 - 👀 I’m interested in videogames, music and manga.
 - 🌱 I’m currently learning how to make games in Unity3D!
-- 📫 How to reach me https://strawbbie.carrd.co
+- 📫 How to reach me https://oppossumgirl.carrd.co
 
 <!---
 strawbbyOKRA/strawbbyOKRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
